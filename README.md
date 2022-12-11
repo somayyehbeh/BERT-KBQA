@@ -11,7 +11,7 @@ The labeled training data remains private until the acceptance of the related Ar
 
 # Usage
 ```bash
-git clonehttps://github.com/meti-94/BERT-QA
+git clone https://github.com/meti-94/BERT-QA
 python node_edge_bert.py
 ```
 The script would be able to find CERTIFIED data in its corresponding directory. Create the proper form data using:
